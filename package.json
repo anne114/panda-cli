@@ -1,0 +1,9 @@
+{
+    "name": "generator-panda-vue-cli",
+    "version": "1.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "yeoman-generator": "^4.2.0"
+    }
+}
