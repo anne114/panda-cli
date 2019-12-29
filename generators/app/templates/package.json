@@ -1,6 +1,6 @@
 {
-    "name": "<%= name%>",
-    "author": "<%= author%>",
+    "name": "ttt",
+    "author": "anne",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
